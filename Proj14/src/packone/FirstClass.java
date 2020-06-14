@@ -7,6 +7,8 @@ public class FirstClass {
 		System.out.println("Hi This is Sample Code");
 		
 		System.out.println("Hi these are changes");
+		
+		System.out.println("Hello");
 
 		
 	}
